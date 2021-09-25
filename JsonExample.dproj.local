@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\TIGER\Desktop\JsonExample\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\TIGER\Desktop\JsonExample\Main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\TIGER\Desktop\JsonExample\JsonExample.dproj</Transaction>
+    <Transaction>2021.09.19 15:43:19.357,=C:\Users\TIGER\Desktop\JsonExample\Unit2.pas</Transaction>
+    <Transaction>2021.09.19 15:43:35.672,C:\Users\TIGER\Desktop\JsonExample\SecondForm.pas=C:\Users\TIGER\Desktop\JsonExample\Unit2.pas</Transaction>
+    <Transaction>2021.09.19 15:43:35.672,C:\Users\TIGER\Desktop\JsonExample\SecondForm.fmx=C:\Users\TIGER\Desktop\JsonExample\Unit2.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
